@@ -1,3 +1,7 @@
+/* Google Fonts Import */
+@import url('https://googleapis.com');
+
+/* Global Resets */
 * {
   margin: 0;
   padding: 0;
@@ -11,12 +15,22 @@ body {
   line-height: 1.7;
 }
 
+/* Hero Section Layout */
 .hero {
   min-height: 100vh;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 60px;
+}
+
+.hero-text {
+  max-width: 55%;
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
 }
 
 .hero-text h1 span {
@@ -26,14 +40,18 @@ body {
 .hero-text h2 {
   margin: 12px 0;
   color: #94a3b8;
+  min-height: 40px; /* Gives room for typing text element layout */
 }
 
 .hero-img img {
   width: 280px;
+  height: 280px;
+  object-fit: cover;
   border-radius: 50%;
   border: 4px solid #38bdf8;
 }
 
+/* Explore Button Layout */
 .btn {
   display: inline-block;
   margin-top: 25px;
@@ -43,15 +61,27 @@ body {
   text-decoration: none;
   border-radius: 30px;
   font-weight: 500;
+  transition: all 0.3s ease;
 }
 
+.btn:hover {
+  background-color: #0ea5e9;
+  transform: translateY(-2px);
+}
+
+/* General Layout Blocks */
 .section {
   padding: 60px;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .section h2 {
   color: #38bdf8;
   margin-bottom: 20px;
+  font-size: 2rem;
+  border-bottom: 2px solid rgba(56, 189, 248, 0.2);
+  padding-bottom: 10px;
 }
 
 .card,
@@ -61,28 +91,117 @@ body {
   border-radius: 14px;
   margin-bottom: 20px;
   transition: transform 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.05);
 }
 
+.card:hover,
 .project-card:hover {
   transform: translateY(-8px);
+}
+
+/* Technical Skill Badges */
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
 }
 
 .skills span {
   display: inline-block;
   background-color: #020617;
-  padding: 8px 16px;
-  margin: 6px;
+  color: #38bdf8;
+  padding: 8px 18px;
   border-radius: 20px;
   font-size: 14px;
+  font-weight: 500;
+  border: 1px solid rgba(56, 189, 248, 0.3);
+}
+
+/* Contact Links row formatting */
+.links {
+  margin-top: 20px;
 }
 
 .links a {
   color: #38bdf8;
   text-decoration: none;
-  margin-right: 15px;
+  margin-right: 25px;
+  font-weight: 500;
+  transition: color 0.3s;
 }
 
-/* Scroll Reveal */
+.links a:hover {
+  color: #e5e7eb;
+}
+
+/* Custom Additions for Experience Columns */
+.company-title {
+  color: #38bdf8;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.bullets {
+  color: #cbd5e1;
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+.tech-stack {
+  margin-bottom: 20px;
+  color: #94a3b8;
+}
+
+/* Dual Project Buttons Layout */
+.project-links {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-top: 15px;
+}
+
+.project-btn {
+  display: inline-block;
+  padding: 10px 22px;
+  border-radius: 20px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.project-btn.live {
+  background-color: #38bdf8;
+  color: #020617;
+}
+
+.project-btn.live:hover {
+  background-color: #0ea5e9;
+  transform: translateY(-2px);
+}
+
+.project-btn.repo {
+  background-color: transparent;
+  color: #38bdf8;
+  border: 2px solid #38bdf8;
+}
+
+.project-btn.repo:hover {
+  background-color: rgba(56, 189, 248, 0.1);
+  transform: translateY(-2px);
+}
+
+/* Bullet list padding spacing fix */
+.cert-list {
+  padding-left: 20px;
+  color: #cbd5e1;
+}
+
+.cert-list li {
+  margin-bottom: 12px;
+}
+
+/* Scroll Reveal Features Layout */
 .reveal {
   opacity: 0;
   transform: translateY(50px);
