@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0486-predict-the-winner) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0486-predict-the-winner) |
+## Hash Table
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->
