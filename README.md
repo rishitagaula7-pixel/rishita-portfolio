@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/3471-find-the-largest-almost-missing-integer) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
