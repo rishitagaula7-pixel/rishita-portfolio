@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0054-spiral-matrix) |
 | [0486-predict-the-winner](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0486-predict-the-winner) |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0049-group-anagrams) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0049-group-anagrams) |
 ## Stack
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0045-jump-game-ii) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
