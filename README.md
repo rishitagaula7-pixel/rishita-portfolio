@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0054-spiral-matrix) |
 | [0486-predict-the-winner](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0486-predict-the-winner) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0045-jump-game-ii) |
 | [0486-predict-the-winner](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0054-spiral-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
