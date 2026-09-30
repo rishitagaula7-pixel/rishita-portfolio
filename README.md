@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0073-set-matrix-zeroes) |
 | [0486-predict-the-winner](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0486-predict-the-winner) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0073-set-matrix-zeroes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
