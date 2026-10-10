@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0078-subsets) |
 | [0486-predict-the-winner](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0486-predict-the-winner) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0078-subsets) |
 ## Algorithm X
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0098-validate-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rishitagaula7-pixel/rishita-portfolio/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
